@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Elanderson</h1>
+<h1 align="center">Hi there👋, I'm Elanderson</h1>
 <h3 align="center">Aspiring game dev From Brazil</h3>
 <img align='right' alt='me fr' width='250'src='https://media.tenor.com/FbDFUYUROMMAAAAM/rampo-edogawa-ranpo-edogawa.gif'>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elandersonn&label=Profile%20views&color=0e75b6&style=flat" alt="elandersonn" /> </p>
